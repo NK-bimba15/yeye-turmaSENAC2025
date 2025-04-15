@@ -1,0 +1,70 @@
+(COM " ! " ESTÃO RESPONDIDAS )
+
+! 41. Qual das opções representa corretamente a criação de um ArrayList de inteiros?
+a) ArrayList<int> lista = new ArrayList<>();
+X) ArrayList<Integer> lista = new ArrayList<>();
+c) List<int> lista = new List<>();
+d) Array<int> lista = new Array<>();
+
+
+! 42. Qual estrutura é mais adequada para evitar valores duplicados?
+a) Array
+b) ArrayList
+X) HashSet
+d) HashMap
+
+
+! 43. O que o método `equalsIgnoreCase` faz em Java?
+a) Compara strings sem considerar espaços em branco
+X) Compara strings ignorando letras maiúsculas/minúsculas
+c) Compara arrays de caracteres
+d) Retorna true se a string for nula
+
+
+! 44. Qual comando Java é usado para interromper um laço de repetição?
+a) return
+X) break
+c) stop
+d) exit
+
+
+! 45. Qual dos seguintes métodos pertence à classe Math?
+a) .parseInt()
+b) .toLowerCase()
+X) .sqrt()
+d) .length()
+
+
+! 46. Qual das opções abaixo representa um laço de repetição em Java?
+a) if
+b) switch
+X) for
+d) try
+
+
+! 47. O que significa a sigla IDE no contexto de programação?
+a) Internet Development Environment
+X) Integrated Development Environment
+c) Internal Data Editor
+d) Interface Design Example
+
+
+! 48. Qual tipo de dado é usado para representar números com casas decimais?
+a) int
+b) String
+c) boolean
+X) double
+
+
+! 49. O que o código `ArrayList<String> lista = new ArrayList<>();` faz?
+a) Cria uma lista de inteiros
+X) Cria uma lista de strings
+c) Cria um array de strings
+d) Cria um dicionário de strings
+
+
+! 50. O método `nextLine()` da classe Scanner serve para:
+a) Ler um número
+b) Ler um caractere
+X) Ler uma linha completa de texto
+d) Ler um Boolean
